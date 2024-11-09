@@ -1,0 +1,10 @@
+.itemSpan {
+  color: orange;
+  font-weight: 500;
+}
+.button {
+  border-radius: 2px;
+  cursor: pointer;
+  transition: background-color 0.25s;
+  float: right;
+}
