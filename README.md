@@ -30,7 +30,7 @@ This repository contains a collection of **React.js** projects, including variou
 ## Installation & Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/react-projects.git
+   git clone https://github.com/Srivshivu77/react-projects/tree/main.git
    ```
 2. Navigate to the project directory:
    ```sh
